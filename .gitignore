@@ -1,0 +1,7 @@
+# Виключити для комміта файли з роиренням txt
+*.txt
+#Додати до комміта файл readme.txt
+!readme.txt
+#Виключити с комміта папку avatar & image
+avatar/
+image/
